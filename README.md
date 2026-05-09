@@ -16,15 +16,9 @@ This Power BI dashboard analyzes marketing performance using multiple attributio
 ---
 
 ## 📊 Dashboard Preview
-
-### 🔹 KPI Overview
-![KPI](screenshots/01_kpi.png)
-
-### 🔹 Attribution Models Comparison
-![Attribution](screenshots/02_attribution.png)
-
-### 🔹 Campaign Performance
-![Campaign](screenshots/03_campaign.png)
+![Marketing Attribution Dashboard]
+("C:\Users\chaya\OneDrive\Pictures\Screenshots\Screenshot 2026-05-09 182036.png")
+This dashboard shows KPI cards, attribution models (First Click, Last Click, Linear, Time Decay), and campaign performance in a single view.
 
 ---
 
